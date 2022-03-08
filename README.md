@@ -30,4 +30,4 @@ Now you and your friend login to this project you can chat through the blockchai
 
 ### i provided demo you can check it .
 
-<------- SAMBIT SARGAM EKALABYA ------>
+<------- SAMBIT------>
